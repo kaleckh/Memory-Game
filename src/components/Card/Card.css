@@ -3,3 +3,11 @@
     width: 100px;
     height: 150px;
 }
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
